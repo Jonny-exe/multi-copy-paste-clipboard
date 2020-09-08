@@ -8,10 +8,10 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 
 # How to install
 
-- via the atom package manager (`apm`):
+- Via the atom package manager (`apm`):
   - `apm install multi-copy-paste-clipboard`
-- or inside the `atom` editor, on the Settings page (Control-,).
-- or from `atom.io` website
+- Or inside the `atom` editor, on the Settings page (Control-,), on the install tab.
+- Or from `atom.io` website
   - https://atom.io/packages/multi-copy-paste-clipboard
 
 # Package for `atom`
