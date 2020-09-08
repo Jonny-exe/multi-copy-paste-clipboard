@@ -3,7 +3,10 @@
     "ctrl-alt-y": "multi-copy-paste:toggle",
     "ctrl-alt-i": "multi-copy-paste:paste",
     "ctrl-shift-x": "multi-copy-paste:copy",
-    "ctrl-shift-f1": "multi-copy-paste:paste-1",
+    "ctrl-shift-f1": "multi-copy-paste:paste-1"
+
+  },
+  "atom-panel":{
     "escape": "multi-copy-paste:toggle",
     "enter": "multi-copy-paste:toggle"
   }
