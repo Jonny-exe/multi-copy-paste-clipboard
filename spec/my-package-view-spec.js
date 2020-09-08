@@ -1,6 +1,6 @@
 'use babel';
 
-import MyPackageView from '../lib/my-package-view';
+import MyPackageView from '../lib/multi-copy-paste-clipboard-view';
 
 describe('MyPackageView', () => {
   it('has one valid test', () => {

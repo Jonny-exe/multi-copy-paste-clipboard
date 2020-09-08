@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle my-package",
-        "command": "my-package:toggle"
+        "label": "Toggle multi-copy-paste-clipboard",
+        "command": "multi-copy-paste:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "my-package",
+          "label": "multi-copy-paste-clipboard",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "my-package:toggle"
+              "command": "multi-copy-paste:toggle"
             }
           ]
         }
