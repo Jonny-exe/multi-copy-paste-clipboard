@@ -1,8 +1,8 @@
 {
   "atom-workspace": {
     "ctrl-alt-y": "my-package:toggle",
-    "ctrl-alt-l": "my-package:see",
     "ctrl-alt-i": "my-package:paste",
-    "ctrl-alt-u": "my-package:copy"
+    "ctrl-shift-x": "my-package:copy",
+    "ctrl-shift-f1": "my-package:paste-1"
   }
 }
