@@ -1,8 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-alt-y": "my-package:toggle",
-    "ctrl-alt-i": "my-package:paste",
-    "ctrl-shift-x": "my-package:copy",
-    "ctrl-shift-f1": "my-package:paste-1"
+    "ctrl-alt-y": "multi-copy-paste:toggle",
+    "ctrl-alt-i": "multi-copy-paste:paste",
+    "ctrl-shift-x": "multi-copy-paste:copy",
+    "ctrl-shift-f1": "multi-copy-paste:paste-1"
   }
 }

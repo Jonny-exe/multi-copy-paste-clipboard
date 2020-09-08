@@ -1,14 +1,14 @@
 {
-  "name": "my-package",
+  "name": "atom-multi-copy-paste",
   "main": "./lib/my-package",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
+  "version": "1.0.0",
+  "description": "A package for the atom editor to enable a clipboard for multiple copy-paste operations. It provides a list of the last copies and you select one element from the copy-list for pasting.",
+  "keywords": ["copy", "clipboard", "paste", "multi", "multiple"
   ],
   "activationCommands": {
-    "atom-workspace": "my-package:toggle"
+    "atom-workspace": "multi-copy-paste:toggle"
   },
-  "repository": "https://github.com/atom/my-package",
+  "repository": "https://github.com/Jonny-exe/atom-multi-copy-paste",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
