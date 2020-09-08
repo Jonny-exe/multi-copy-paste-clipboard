@@ -1,5 +1,5 @@
 {
-  "name": "multi-copy-paste",
+  "name": "multi-copy-paste-clipboard",
   "main": "./lib/my-package",
   "version": "1.0.0",
   "description": "A package for the atom editor to enable a clipboard for multiple copy-paste operations. It provides a list of the last copies and you select one element from the copy-list for pasting.",
