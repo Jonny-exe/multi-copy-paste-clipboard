@@ -7,7 +7,10 @@
 
   },
   "atom-panel":{
-    "escape": "multi-copy-paste:toggle",
+    "escape": "multi-copy-paste:toggle"
+  },
+  "input#input.native-key-bindings":{
     "enter": "multi-copy-paste:toggle"
+
   }
 }
