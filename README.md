@@ -7,9 +7,10 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
   Keystroke     | Command	Selector    | Source
 ---------------------------------------------------------------------------
   ctrl-alt-y    | multi-copy-paste:toggle   | Toggle your modal window
-  ctrl-shift-X  | multi-copy-paste:copy     | Copy
-  ctrl-shift-f1 | multi-copy-paste:paste-1  | Auto-paste your first item
-  ctrl-alt-i    | multi-copy-paste:paste    | Auto-paste your first item
+  ctrl-c        | multi-copy-paste:copy     | Copy
+  ctrl-v        | multi-copy-paste:paste    | Auto-paste your last item
+  escape, enter | multi-copy-paste:toggle   | Close your modal window without pasting
+  From 0 to 9   | multi-copy-paste:paste    | Paste the corresponding item from the buffer and close modal window
 ```
 
 # Screenshot
