@@ -2,7 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-y": "multi-copy-paste:toggle",
     "ctrl-v": "multi-copy-paste:paste-0",
-    "ctrl-c": "multi-copy-paste:copy",
+    "ctrl-c": "multi-copy-paste:copy"
 
   },
   "atom-panel":{
@@ -20,6 +20,5 @@
     "7": "multi-copy-paste:paste-7",
     "8": "multi-copy-paste:paste-8",
     "9": "multi-copy-paste:paste-9"
-
   }
 }
