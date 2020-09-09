@@ -1,16 +1,25 @@
 {
   "atom-workspace": {
     "ctrl-alt-y": "multi-copy-paste:toggle",
-    "ctrl-alt-i": "multi-copy-paste:paste",
-    "ctrl-shift-x": "multi-copy-paste:copy",
-    "ctrl-shift-f1": "multi-copy-paste:paste-1"
+    "ctrl-v": "multi-copy-paste:paste-0",
+    "ctrl-c": "multi-copy-paste:copy",
 
   },
   "atom-panel":{
     "escape": "multi-copy-paste:toggle"
   },
   "input#input.native-key-bindings":{
-    "enter": "multi-copy-paste:toggle"
+    "enter": "multi-copy-paste:toggle",
+    "0": "multi-copy-paste:paste-0",
+    "1": "multi-copy-paste:paste-1",
+    "2": "multi-copy-paste:paste-2",
+    "3": "multi-copy-paste:paste-3",
+    "4": "multi-copy-paste:paste-4",
+    "5": "multi-copy-paste:paste-5",
+    "6": "multi-copy-paste:paste-6",
+    "7": "multi-copy-paste:paste-7",
+    "8": "multi-copy-paste:paste-8",
+    "9": "multi-copy-paste:paste-9"
 
   }
 }
