@@ -8,10 +8,17 @@
     "clipboard",
     "paste",
     "multi",
-    "multiple"
+    "multiple",
+    "buffer",
+    "clipboard-manager"
   ],
   "activationCommands": {
-    "atom-workspace": "multi-copy-paste:toggle"
+    "atom-workspace": [
+      "multi-copy-paste:toggle",
+      "multi-copy-paste:paste",
+      "multi-copy-paste:copy",
+      "multi-copy-paste:test"
+    ]
   },
   "repository": "https://github.com/Jonny-exe/multi-copy-paste-clipboard",
   "license": "MIT",
