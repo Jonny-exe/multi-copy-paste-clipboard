@@ -18,7 +18,7 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 
 # Screenshot
 
-![A screenshot of your package](https://raw.githubusercontent.com/Jonny-exe/multi-copy-paste-clipboard/master/updated-screenshot.gif)
+![A screenshot of your package](https://raw.githubusercontent.com/Jonny-exe/multi-copy-paste-clipboard/master/screenshot.gif)
 
 # How to install
 
@@ -34,7 +34,6 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 
 # Package for `atom`
 
-<a href="url"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fatom-4-logo-png-transparent.png&f=1&nofb=1" align="left" height="120" ></a>
-
+![A screenshot of your package](https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png)
 
 - Go `atom`, go!
