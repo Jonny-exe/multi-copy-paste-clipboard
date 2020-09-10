@@ -51,9 +51,6 @@
   "license": "MIT",
   "main": "./lib/multi-copy-paste-clipboard",
   "name": "multi-copy-paste-clipboard",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jonny-exe/multi-copy-paste-clipboard.git"
-  },
+  "repository": "https://github.com/Jonny-exe/multi-copy-paste-clipboard",
   "version": "2.1.16"
 }
