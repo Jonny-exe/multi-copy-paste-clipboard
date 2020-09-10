@@ -1,6 +1,6 @@
 # multi-copy-paste-clipboard package
 
-A package for the `atom` editor to enable a clipboard for multiple copy-paste operations. It provides a list of the last copies and you select one element from the copy-list for pasting.
+A package for the `atom` editor to enable a clipboard for multiple copy-paste operations. It provides a list of the last 10 to 20 copies and you select one element from the copy-list for pasting.
 
 # Keybindings
 ```
@@ -27,6 +27,10 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 - Or inside the `atom` editor, on the Settings page (Control-,), on the install tab.
 - Or from `atom.io` website
   - https://atom.io/packages/multi-copy-paste-clipboard
+
+# Settings
+- You can customize the amount of copies you want to manage in your clipboard.
+- You can customize the length of the copies displayed in your clipboard.
 
 # Package for `atom`
 
