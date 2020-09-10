@@ -1,8 +1,44 @@
 {
-  "name": "multi-copy-paste-clipboard",
-  "main": "./lib/multi-copy-paste-clipboard",
-  "version": "2.0.3",
+  "_from": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+  "_id": "multi-copy-paste-clipboard@2.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-W7p3EPcyJYjREotKwPuKc6svybvMDmeYZjDxw7wXQI2zIrn+iwjAyAO6VlV+DUu5WMzNqlB2rz7dCkHG2dsYHA==",
+  "_location": "/multi-copy-paste-clipboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+  "_shasum": "b199424da4b4f06ae1108bb48a78b588bf309468",
+  "_spec": "https://www.atom.io/api/packages/multi-copy-paste-clipboard/versions/2.0.3/tarball",
+  "_where": "C:\\Users\\a\\AppData\\Local\\Temp\\apm-install-dir-2020810-14456-7vtcrf.ddeav",
+  "activationCommands": {
+    "atom-workspace": [
+      "multi-copy-paste:toggle",
+      "multi-copy-paste:paste",
+      "multi-copy-paste:copy",
+      "multi-copy-paste:test"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Jonny-exe/multi-copy-paste-clipboard/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
   "description": "A package for the atom editor to enable a clipboard for multiple copy-paste operations. It provides a list of the last copies and you select one element from the copy-list for pasting.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Jonny-exe/multi-copy-paste-clipboard#readme",
   "keywords": [
     "copy",
     "clipboard",
@@ -12,18 +48,13 @@
     "buffer",
     "clipboard-manager"
   ],
-  "activationCommands": {
-    "atom-workspace": [
-      "multi-copy-paste:toggle",
-      "multi-copy-paste:paste",
-      "multi-copy-paste:copy",
-      "multi-copy-paste:test"
-    ]
-  },
-  "repository": "https://github.com/Jonny-exe/multi-copy-paste-clipboard",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+  "main": "./lib/multi-copy-paste-clipboard",
+  "name": "multi-copy-paste-clipboard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonny-exe/multi-copy-paste-clipboard.git"
   },
-  "dependencies": {}
+
+  "version": "2.0.3"
 }
