@@ -32,6 +32,10 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 - You can customize the amount of copies you want to manage in your clipboard.
 - You can customize the length of the copies displayed in your clipboard.
 
+
+![screenshot-settings.png](https://raw.githubusercontent.com/Jonny-exe/multi-copy-paste-clipboard/master/screenshot-settings.png)
+
+
 # Package for `atom`
 
 ![Atom logo](https://dl2.macupdate.com/images/icons256/53196.png?d=1518722998)
