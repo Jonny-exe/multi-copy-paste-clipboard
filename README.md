@@ -34,4 +34,4 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
 
 # Package for `atom`
 
-![A screenshot of your package](https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png){:height="36px" width="36px"}.
+![Atom logo](https://dl2.macupdate.com/images/icons256/53196.png?d=1518722998)
