@@ -5,7 +5,7 @@
     "ctrl-c": "multi-copy-paste:copy",
     "ctrl-shift-x": "multi-copy-paste:test"
   },
-  "atom-panel":{
+  "div.multi-copy-paste2.native-key-bindings":{
     "escape": "multi-copy-paste:toggle"
   },
   "input#input.native-key-bindings":{
