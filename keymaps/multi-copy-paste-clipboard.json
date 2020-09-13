@@ -3,7 +3,7 @@
     "ctrl-alt-y": "multi-copy-paste:toggle",
     "ctrl-v": "multi-copy-paste:paste",
     "ctrl-c": "multi-copy-paste:copy",
-    "ctrl-shift-x": "multi-copy-paste:test"
+    "ctrl-x": "multi-copy-paste:cut"
   },
   "div.multi-copy-paste2.native-key-bindings":{
     "escape": "multi-copy-paste:toggle"
