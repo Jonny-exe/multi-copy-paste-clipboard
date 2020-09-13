@@ -25,6 +25,7 @@
       "multi-copy-paste:toggle",
       "multi-copy-paste:paste",
       "multi-copy-paste:copy",
+      "multi-copy-paste:cut",
       "multi-copy-paste:test"
     ]
   },
