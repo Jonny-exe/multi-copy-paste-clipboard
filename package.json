@@ -53,8 +53,8 @@
   "main": "./lib/multi-copy-paste-clipboard",
   "name": "multi-copy-paste-clipboard",
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/Jonny-exe/multi-copy-paste-clipboard.git"
-} ,
-  "version": "2.14.0"
+    "type": "git",
+    "url": "git+https://github.com/Jonny-exe/multi-copy-paste-clipboard.git"
+  },
+  "version": "2.15.0"
 }
