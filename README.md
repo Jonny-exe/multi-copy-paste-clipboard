@@ -15,7 +15,8 @@ A package for the `atom` editor to enable a clipboard for multiple copy-paste op
   ctrl-0 to 9   | multi-copy-paste:paste    | Paste the corresponding item (10-19)
                 |                           | from the buffer and close modal window
 ```
-On MacOs use `cmd` instead of `ctrl`.
+
+On MacOS use `cmd` instead of `ctrl`.
 
 # Screenshot
 
