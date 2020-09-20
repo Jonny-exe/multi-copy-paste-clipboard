@@ -1,14 +1,23 @@
 {
-  "atom-text-editor:not([mini])": {
+
+  ".platform-linux, platatom-win32 text-editor:not([mini])": {
     "ctrl-alt-y": "multi-copy-paste:toggle",
     "ctrl-v": "multi-copy-paste:paste",
     "ctrl-c": "multi-copy-paste:copy",
-    "ctrl-shift-x": "multi-copy-paste:test"
+    "ctrl-x": "multi-copy-paste:cut"
   },
-  "div.multi-copy-paste2.native-key-bindings":{
+
+  ".platform-darwin text-editor:not([mini])": {
+    "cmd-alt-y": "multi-copy-paste:toggle",
+    "cmd-v": "multi-copy-paste:paste",
+    "cmd-c": "multi-copy-paste:copy",
+    "cmd-x": "multi-copy-paste:cut"
+  },
+
+  "div.multi-copy-paste2.native-key-bindings": {
     "escape": "multi-copy-paste:toggle"
   },
-  "input#input.native-key-bindings":{
+  "input#input.native-key-bindings": {
     "enter": "multi-copy-paste:toggle",
     "0": "multi-copy-paste:paste-0",
     "1": "multi-copy-paste:paste-1",
@@ -19,7 +28,10 @@
     "6": "multi-copy-paste:paste-6",
     "7": "multi-copy-paste:paste-7",
     "8": "multi-copy-paste:paste-8",
-    "9": "multi-copy-paste:paste-9",
+    "9": "multi-copy-paste:paste-9"
+  },
+
+  ".platform-linux, platatom-win32 input#input.native-key-bindings": {
     "ctrl-0": "multi-copy-paste:paste-10",
     "ctrl-1": "multi-copy-paste:paste-11",
     "ctrl-2": "multi-copy-paste:paste-12",
@@ -30,5 +42,17 @@
     "ctrl-7": "multi-copy-paste:paste-17",
     "ctrl-8": "multi-copy-paste:paste-18",
     "ctrl-9": "multi-copy-paste:paste-19"
+  },
+  "platform-darwin input#input.native-key-bindings": {
+    "cmd-0": "multi-copy-paste:paste-10",
+    "cmd-1": "multi-copy-paste:paste-11",
+    "cmd-2": "multi-copy-paste:paste-12",
+    "cmd-3": "multi-copy-paste:paste-13",
+    "cmd-4": "multi-copy-paste:paste-14",
+    "cmd-5": "multi-copy-paste:paste-15",
+    "cmd-6": "multi-copy-paste:paste-16",
+    "cmd-7": "multi-copy-paste:paste-17",
+    "cmd-8": "multi-copy-paste:paste-18",
+    "cmd-9": "multi-copy-paste:paste-19"
   }
 }
