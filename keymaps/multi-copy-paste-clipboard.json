@@ -1,5 +1,5 @@
 {
-
+  "_comment": "text-editor:not([mini])",
   ".platform-linux, .platform-win32 atom-text-editor": {
     "ctrl-alt-y": "multi-copy-paste:toggle",
     "ctrl-v": "multi-copy-paste:paste",
