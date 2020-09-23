@@ -20,7 +20,7 @@ On MacOS use `cmd` instead of `ctrl`.
 
 # Screenshot
 
-![A screenshot of your package](https://raw.githubusercontent.com/Jonny-exe/multi-copy-paste-clipboard/master/screenshot.gif)
+![A screenshot](screenshot.gif)
 
 # How to install
 
@@ -35,9 +35,15 @@ On MacOS use `cmd` instead of `ctrl`.
 - You can customize the length of the copies displayed in your clipboard.
 
 
-![screenshot-settings.png](https://raw.githubusercontent.com/Jonny-exe/multi-copy-paste-clipboard/master/screenshot-settings.png)
+![screenshot-settings](screenshot-settings.png)
 
 
-# Package for `atom`
+# Package for `atom` :atom:
 
 ![Atom logo](https://dl2.macupdate.com/images/icons256/53196.png?d=1518722998)
+
+
+# Enjoy
+
+- If you like it or use it, give it a :star: on :octocat: repo [multi-copy-paste-clipboard](https://github.com/Jonny-exe/multi-copy-paste-clipboard) and another :star: on :atom: package [multi-copy-paste-clipboard](https://atom.io/packages/multi-copy-paste-clipboard). Thanks! :heart:
+- Improve it? Contribute and send me a PR.
