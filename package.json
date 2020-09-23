@@ -56,9 +56,5 @@
     "type": "git",
     "url": "git@github.com:Jonny-exe/multi-copy-paste-clipboard.git"
   },
-<<<<<<< HEAD
   "version": "2.23.0"
-=======
-  "version": "2.22.4"
->>>>>>> b2fa500873c8f1f39e9c05bf138e98cb28273bfc
 }
