@@ -42,8 +42,9 @@ On MacOS use `cmd` instead of `ctrl`.
 
 ![Atom logo](https://dl2.macupdate.com/images/icons256/53196.png?d=1518722998)
 
-
 # Enjoy
 
 - If you like it or use it, give it a :star: on :octocat: repo [multi-copy-paste-clipboard](https://github.com/Jonny-exe/multi-copy-paste-clipboard) and another :star: on :atom: package [multi-copy-paste-clipboard](https://atom.io/packages/multi-copy-paste-clipboard). Thanks! :heart:
 - Improve it? Contribute and send me a PR.
+
+![Atom logo](https://github.githubassets.com/images/icons/emoji/atom.png)
