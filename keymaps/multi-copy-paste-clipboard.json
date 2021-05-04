@@ -73,6 +73,16 @@
     "cmd-6": "multi-copy-paste:paste-16",
     "cmd-7": "multi-copy-paste:paste-17",
     "cmd-8": "multi-copy-paste:paste-18",
-    "cmd-9": "multi-copy-paste:paste-19"
+    "cmd-9": "multi-copy-paste:paste-19",
+    "cmd-numpad0": "multi-copy-paste:paste-10",
+    "cmd-numpad1": "multi-copy-paste:paste-11",
+    "cmd-numpad2": "multi-copy-paste:paste-12",
+    "cmd-numpad3": "multi-copy-paste:paste-13",
+    "cmd-numpad4": "multi-copy-paste:paste-14",
+    "cmd-numpad5": "multi-copy-paste:paste-15",
+    "cmd-numpad6": "multi-copy-paste:paste-16",
+    "cmd-numpad7": "multi-copy-paste:paste-17",
+    "cmd-numpad8": "multi-copy-paste:paste-18",
+    "cmd-numpad9": "multi-copy-paste:paste-19"
   }
 }
