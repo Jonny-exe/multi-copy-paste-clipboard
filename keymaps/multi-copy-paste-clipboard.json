@@ -28,7 +28,17 @@
     "6": "multi-copy-paste:paste-6",
     "7": "multi-copy-paste:paste-7",
     "8": "multi-copy-paste:paste-8",
-    "9": "multi-copy-paste:paste-9"
+    "9": "multi-copy-paste:paste-9",
+    "numpad0": "multi-copy-paste:paste-0",
+    "numpad1": "multi-copy-paste:paste-1",
+    "numpad2": "multi-copy-paste:paste-2",
+    "numpad3": "multi-copy-paste:paste-3",
+    "numpad4": "multi-copy-paste:paste-4",
+    "nunpad5": "multi-copy-paste:paste-5",
+    "numpad6": "multi-copy-paste:paste-6",
+    "numpad7": "multi-copy-paste:paste-7",
+    "numpad8": "multi-copy-paste:paste-8",
+    "numpad9": "multi-copy-paste:paste-9"
   },
 
   ".platform-linux, .platform-win32 input#input.native-key-bindings": {
